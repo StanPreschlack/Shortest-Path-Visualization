@@ -1,4 +1,4 @@
-//stack data structure used by the Converter class
+//stack using linked node implementation
 public class linkedStack<AnyType> {
     //node inner class
     public class node {
